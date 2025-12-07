@@ -1,0 +1,4 @@
+id,question,option_1,option_2,option_3,option_4,answer,skill,difficulty,time
+Q1,Which SQL keyword is used to combine rows from two tables based on a related column?,WHERE,JOIN,GROUP BY,ORDER BY,JOIN,SQL:JOINs,Medium,45
+Q2,What is the correct way to create a list in Python?,list = (1 2 3),list = [1 2 3],list = {1 2 3},list = <1 2 3>,list = [1 2 3],Python:Lists,Easy,30
+Q3,What is the mean of the numbers 2 4 6 8?,4,5,6,8,5,Stats:MeanMedian,Easy,30
